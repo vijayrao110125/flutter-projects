@@ -1,0 +1,108 @@
+name: gf_demo
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  getflutter: 1.0.0-dev.7
+  flutter_svg: ^0.15.0
+
+  
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.4"
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_android: "lib/assets/icons/logo.png"
+  image_path_ios: "lib/assets/icons/logo.png"
+
+
+
+flutter:
+ 
+  uses-material-design: true
+  fonts:
+    - family: icomoon
+      fonts:
+        - asset: lib/fonts/icomoon.ttf
+  
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - lib/assets/icons/Group817.png
+    - lib/assets/icons/Group821.png
+    - lib/assets/icons/eye.png
+    - lib/assets/icons/footer.png
+    - lib/assets/images/news1.png
+    - lib/assets/images/news2.png
+    - lib/assets/images/news3.png
+    - lib/assets/images/news4.png
+    - lib/assets/images/news5.png
+    - lib/assets/images/news6.png
+    - lib/assets/icons/share.png
+    - lib/assets/icons/circle.png
+    - lib/assets/icons/whatsapp.png
+    - lib/assets/images/1.png
+    - lib/assets/images/2.png
+    - lib/assets/images/3.png
+    - lib/assets/images/4.png
+    - lib/assets/images/5.png
+    - lib/assets/images/6.png
+    - lib/assets/icons/mail.png
+    - lib/assets/icons/phone.png
+    - lib/assets/icons/notification.png
+    - lib/assets/icons/lock.png
+    - lib/assets/icons/web.png
+    - lib/assets/icons/logout.png
+    - lib/assets/images/surface.png
+    - lib/assets/images/c1.png
+    - lib/assets/images/c2.png
+    - lib/assets/images/c3.png
+    - lib/assets/images/c4.png
+    - lib/assets/images/c5.png
+    - lib/assets/images/drawer.png
+    - lib/assets/icons/logo.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
